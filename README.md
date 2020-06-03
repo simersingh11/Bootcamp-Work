@@ -1,2 +1,0 @@
-# uci-homework
-Data Visualization
